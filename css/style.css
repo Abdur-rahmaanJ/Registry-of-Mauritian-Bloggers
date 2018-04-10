@@ -1,0 +1,155 @@
+/**@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+body {
+	
+    background: #F17563;
+    font-family: Open Sans;
+    font-size: 50px;
+  	color: #222;
+}
+
+label {
+    perspective: 1000px;
+    transform-style: preserve-3d;
+    display: block;
+    width: 300px;
+    height: 200px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    cursor: pointer;
+}
+
+.card {
+    position: relative;
+    height: 100%;
+    width: 100%;
+    transform-style: preserve-3d;
+    transition: all 600ms;
+    z-index: 20;
+}
+
+    .card div {
+        position: absolute;
+        height: 100%;
+        width: 100%;
+        background: #FFF;
+        text-align: center;
+        line-height: 200px;
+        backface-visibility: hidden;
+        border-radius: 2px;
+    }
+
+    .card .back {
+        background: #222;
+        color: #FFF;
+        transform: rotateX(180deg);
+    }
+
+input {
+    display: none;
+}
+
+:checked + .card {
+    transform: rotateX(180deg);
+}
+
+label:checked + .card {
+    transform: rotateX(160deg);
+    box-shadow: 0 20px 20px rgba(255,255,255,.2);
+}**/
+
+body
+{
+	font-family: 'Ubuntu Mono', monospace;
+	background-color:#c8e6c9;
+}
+a
+{
+	text-decoration: none;
+	color: black;
+}
+hr
+{
+	width: 300px;
+}
+header
+{
+	color: #1ba38e;
+	font-weight: bold;
+	font-family: 'Indie Flower', cursive;
+	font-size: 50px;
+}
+
+.back
+{
+	padding: 5px;
+	color: #1ba38e;
+}
+.blog_type
+{
+	width: 100px; height: 80px;
+	padding-top: 20px;
+	color: #1ba38e; 
+	/*line-height: 100px;*/
+	margin: 30px;
+}
+.blog_type > i
+{
+	font-size: 30px;
+}
+.blog_elem
+{
+	padding: 5px;
+	margin: 20px;
+	color: #1ba38e;
+	min-height:100px; width: 400px;
+}
+.blog_name
+{
+	font-size: 30px;
+}
+.blog_descrip
+{
+	width: 275px;
+	height: 70px;
+	overflow-y: scroll;
+}
+.blog_img
+{
+	float: left;
+}
+.blog_img > img
+{
+	width: 100px; height: 100px;
+	border-radius: 5px;
+}
+.blog_info
+{
+	height: 100px; width:200px;
+	margin: 10px;
+	float: left;
+}
+.blog_visit
+{
+	width: 75px;
+	padding: 5px; margin: 5px;
+	color: white;
+	border-radius: 3px;
+
+}
+
+.choice
+{
+	width:50px; height: 50px;
+	color: #1ba38e; 
+	margin: 20px;
+	border-radius: 50%;
+	border: 5px solid #1ba38e;
+	line-height: 50px; font-size: 30px;
+}
+.choice_text
+{
+	color: #1ba38e;
+}
