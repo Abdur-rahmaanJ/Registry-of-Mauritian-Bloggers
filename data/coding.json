@@ -1,22 +1,16 @@
-var data = {
-	[
+{
+	"blogs":[
 		{
-			"name":"MMM",
+			"name":"therandomtechadventure",
 			"description":"",
 			"icon link":"",
-			"blog link"
+			"blog link":"https://therandomtechadventure.blogspot.com/"
 		},
 		{
-			"name":"MMM",
-			"description":"",
-			"icon link":"",
-			"blog link"
-		},
-		{
-			"name":"MMM",
-			"description":"",
-			"icon link":"",
-			"blog link"
+			"name":"A BIT OF EVERYTHING - COPY",
+			"description":"python, programming ...",
+			"icon link":"https://abdurrahmaanjanhangeer.files.wordpress.com/2016/10/java_coffee_cup_logo1600.png?w=80",
+			"blog link":"https://abdurrahmaanjanhangeer.wordpress.com/"
 		}
 	]
-};
+}

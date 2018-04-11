@@ -1,0 +1,34 @@
+{
+	"blogs":[
+		{
+			"name":"Learn Gardening",
+			"description":"",
+			"icon link":"https://4.bp.blogspot.com/-RE4RWQ7prDg/UasnghHEBUI/AAAAAAAAO-I/wyOg8MmGU6Y/s1600/269603_10150302322641351_920332_n.jpg",
+			"blog link":"https://learngardening.blogspot.com/"
+		},
+		{
+			"name":"UBEID",
+			"description":"",
+			"icon link":"https://image.flaticon.com/icons/svg/204/204322.svg",
+			"blog link":"https://ubeidjamal.wordpress.com/"
+		},
+		{
+			"name":"MauBonsai",
+			"description":"My name is Xavier de Lapeyre and I am a self-taught bonsai enthusiast from Mauritius. I study and write about my bonsai experiences in this blog. I would be interested to share and even start a Bonsai Club here in Mauritius. I started on bonsai back in 2009.",
+			"icon link":"https://lh5.googleusercontent.com/-MMNFYoL6Gio/AAAAAAAAAAI/AAAAAAAAASg/-zArIav8HWU/s80-c/photo.jpg",
+			"blog link":"https://maubonsai.blogspot.com/"
+		},
+		{
+			"name":"Nawsheen's World",
+			"description":"Originally from Mauritius, Nawsheen Hosenally is a freelance ICT4Ag and Social Media Consultant, based in Burkina Faso. She has been working in the areas of youth, agriculture and ICT for the past 5 years with various regional and international organisations, including the Technical Centre for Agricultural and Rural Cooperation (CTA) in the Netherlands. Nawsheen holds a Bachelor’s degree in Agricultural Extension and is also a part-time student, pursuing her Master’s degree in Management and Information Systems at the University of Manchester, UK.",
+			"icon link":"",
+			"blog link":"http://nawsheen.com/category/blog/"
+		},
+		{
+			"name":"Not only us",
+			"description":"Animal welfare, biodiversity and sustainability",
+			"icon link":"",
+			"blog link":"https://meeraappadoo.wordpress.com/"
+		}
+	]
+}

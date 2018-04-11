@@ -1,0 +1,64 @@
+{
+	"blogs":[
+		{
+			"name":"Get Blogged by JoKi",
+			"description":"Jochen Kirstätter",
+			"icon link":"https://image.flaticon.com/icons/svg/204/204322.svg",
+			"blog link":"https://jochen.kirstaetter.name/"
+		},
+		{
+			"name":"/dev/null - home of the eldergod",
+			"description":"Docker bitchin",
+			"icon link":"https://image.flaticon.com/icons/svg/204/204322.svg",
+			"blog link":"http://thegodof.net/wp/"
+		},
+		{
+			"name":"yasirmx",
+			"description":"The main things I write about are technology, photography, mauritius and media",
+			"icon link":"http://www.yasirmx.net/wp-content/uploads/2016/02/YAS_22571-1-1.jpg",
+			"blog link":"http://www.yasirmx.net"
+		},
+		{
+			"name":"HACKLOG",
+			"description":"HACKLOG is all about my love story with computers & Linux. It is my Internet space where I publish stuffs spinning in my mind. It is my hack log. I write about things I break & I repair.",
+			"icon link":"https://hacklog.mu/img/avatar-icon.png",
+			"blog link":"https://hacklog.mu/"
+		},
+		{
+			"name":"Mera Blog",
+			"description":"---",
+			"icon link":"https://image.flaticon.com/icons/svg/204/204322.svg",
+			"blog link":"https://nayarweb.com/blog/"
+		},
+		{
+			"name":"NIRVAN PAGOOAH",
+			"description":"---",
+			"icon link":"https://image.flaticon.com/icons/svg/204/204322.svg",
+			"blog link":"http://blog.nirvan.pagooah.com/"
+		},
+		{
+			"name":"Irshaad's World",
+			"description":"I am from Mauritius and student in Information Systems Engineering in Turkey.  Social, geeky, tech-lover and everything that's linked to technology; am in it. Not exactly 'Jack of all trade' but I like to try and test each and everything I come across. My blog will surely show that better.",
+			"icon link":"",
+			"blog link":"http://blog.irshaad.me/"
+		},
+		{
+			"name":"Suraj Motee",
+			"description":"Hi, I am Suraj Motee. I welcome you with an open heart to my blog. I am a simple guy from Mauritius. I am always busy struggling to fulfill my dreams. I believe in my potential to become a good teacher one day. ",
+			"icon link":"https://smotee.files.wordpress.com/2017/09/room-302.jpg?w=1038&h=576&crop=1",
+			"blog link":"https://smotee.wordpress.com"
+		},
+		{
+			"name":"Tunellix",
+			"description":"My name is Jaykishan Mutkawoa or simply Nitin. This blog is simply about my passion for Linux and Open source softwares though sometimes, i feel to blog about Space explorations or stuffs i came across that i find interesting. I have been participating in Open source and Linux meet ups since years back. I am currently working as a Linux and Applications system administrator at Linkbynet Indian Ocean. I live in Mauritius, a little island in the Indian Ocean sadly with just 1Mbps internet speed.",
+			"icon link":"",
+			"blog link":"https://tunnelix.com/"
+		},
+		{
+			"name":"TechTalk",
+			"description":"",
+			"icon link":"",
+			"blog link":"http://blog.bhugul.com/"
+		}
+	]
+}

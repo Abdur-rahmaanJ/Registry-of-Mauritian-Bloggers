@@ -1,0 +1,82 @@
+{
+	"blogs":[
+		{
+			"name":"my sweet mauritius",
+			"description":"Française installée depuis 9 ans à l'île Maurice, ... Chaque semaine ou presque, je publie mon coup de coeur avec ma signature : Ayo J'Adore ! ",
+			"icon link":"https://1.bp.blogspot.com/-UqKwyMMo-X8/WOT4vAYS89I/AAAAAAAAY4Q/cDQu7LCrfiIKj8ePdErTRe_1j06Rt8CgACK4B/s1120/MSN2817L.jpg",
+			"blog link":"https://mysweetmauritius.blogspot.com/"
+		},
+		{
+			"name":"The Eagle's Lodge",
+			"description":"The Eagle's Lodge is the online home of a Mauritian blogger / political observer / net activist who blogs about both the positives and negatives of the country.",
+			"icon link":"https://image.flaticon.com/icons/svg/204/204322.svg",
+			"blog link":"https://ashfaqblog.blogspot.com/"
+		},
+		{
+			"name":"yashvinblogs.com",
+			"description":"I use it a lot for sharing bits and pieces of my personal life, hence a personal blog. That’s why you will might regularly get bored when you come across posts where I talk about me, me and just me. Kidding. You will love being here all the time",
+			"icon link":"https://image.flaticon.com/icons/svg/204/204322.svg",
+			"blog link":"http://www.yashvinblogs.com"
+		},
+		{
+			"name":"Mike Sinnot's world",
+			"description":"Just another day in paradise",
+			"icon link":"https://i1.wp.com/msinnott.net/wp-content/uploads/2016/01/cropped-cropped-P1000039.jpg?w=1200",
+			"blog link":"http://msinnott.net/"
+		},
+		{
+			"name":"Ting Ting's Corner",
+			"description":"---",
+			"icon link":"https://image.flaticon.com/icons/svg/204/204322.svg",
+			"blog link":"https://infinitytingting.blogspot.com/"
+		},
+		{
+			"name":"LEVER LEPEP! KNOW THY TRUTH!",
+			"description":"Shocking truth, Student help, stuffs around the island,...",
+			"icon link":"https://image.flaticon.com/icons/svg/204/204322.svg",
+			"blog link":"https://leverlepep.blogspot.com/"
+		},
+		{
+			"name":"Of Stacks and Cups",
+			"description":"",
+			"icon link":"",
+			"blog link":"https://ofstacksandcups.blogspot.com/"
+		},
+		{
+			"name":"Mademoiselle Nomad",
+			"description":"I am Beatrice Chan, an author and a perpetual nomad. I help people who live abroad navigate the intricacies of their new lives, by guiding them through the various stages. By integrating authenticity, meaning, and creativity in the way we do life abroad, we are able to sail through with greater ease, joy and flow.",
+			"icon link":"https://mademoisellenomad.com/wp-content/uploads/2017/07/MN-Primary-Logo.png",
+			"blog link":"https://mademoisellenomad.com/"
+		},
+		{
+			"name":"ADARSH BLOG",
+			"description":"",
+			"icon link":"",
+			"blog link":"http://www.adarsh.hasnah.net/"
+		},
+		{
+			"name":"MOTIZIL",
+			"description":"Franco-mauricienne, j’ai crée le blog motizil.com pour partager mes connaissances de l’Ile Maurice et vous aider à préparer votre voyage. Bien plus que des plages, je souhaite mettre en avant toutes les richesses de l’Ile Maurice et vous montrer qu’il y a bien plus à faire que de lézarder sur les plages.",
+			"icon link":"https://www.motizil.com/wp-content/uploads/2018/02/logo-motizil-bl-1.png",
+			"blog link":"https://www.motizil.com/"
+		},
+		{
+			"name":"Summer Love",
+			"description":"",
+			"icon link":"https://1.bp.blogspot.com/-wx3NXcQ6Ets/WnXZTrFDrTI/AAAAAAAAECE/dKe9UWWcah8JSBYdxsX7QSrcm5d6WYt7QCK4BGAYYCw/s932/1%2Bbanner.jpg",
+			"blog link":"https://summerloveunr.blogspot.com/"
+		},
+		{
+			"name":"mystopovers",
+			"description":"If you ever come across a tall, long-bearded fellow walking the paths of life, convinced that there’s always something beautiful somewhere to discover, admire, enjoy – on earth, in the sky, over the waters – anywhere in the real world where it just happens to […]",
+			"icon link":"https://i2.wp.com/mystopovers.com/wp-content/uploads/2017/08/RAY.jpg?fit=1536%2C1152",
+			"blog link":"http://mystopovers.com"
+		},
+		{
+			"name":"Life's little things by Reena DKL",
+			"description":"",
+			"icon link":"https://reenadklblog.files.wordpress.com/2017/03/cropped-rdkl-02.jpg",
+			"blog link":"https://reenadklblog.wordpress.com/"
+		}
+	]
+}

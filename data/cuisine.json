@@ -1,0 +1,28 @@
+{
+	"blogs":[
+		{
+			"name":"P E A C H Y T A L E S",
+			"description":"A tale of passion from my Kitchen - Mauritian Food",
+			"icon link":"https://peachytalesplates.files.wordpress.com/2018/02/img_5128.jpg?w=920&h=666&crop=1",
+			"blog link":"https://peachytales.com/"
+		},
+		{
+			"name":"SAVEURS ET EXPERIENCES",
+			"description":"---",
+			"icon link":"https://1.bp.blogspot.com/-yX2RD8UaGNY/WFCsBMeK2bI/AAAAAAAAgs8/8qkeiQvEZogfN7AiDUqB6WiStmNih4G_ACK4B/s1600/Bandeau%2BSaveurs%2Bet%2BExperiences%2BWoodcabin.jpg",
+			"blog link":"https://saveursetexperiences.blogspot.com/"
+		},
+		{
+			"name":"a la as",
+			"description":"Lazy veggy foody",
+			"icon link":"https://image.flaticon.com/icons/svg/204/204322.svg",
+			"blog link":"https://a-la-asmi.blogspot.com/"
+		},
+		{
+			"name":"The Sydney Noob",
+			"description":"I write from the consumers’/dinners’ point of view who are willing to spend their hard earned cash. More about my rating system here.",
+			"icon link":"http://thesydneynoob.com/wp-content/uploads/2015/04/thesydneynoob_logo_black.png",
+			"blog link":"http://thesydneynoob.com/"
+		}
+	]
+}
