@@ -1,10 +1,22 @@
 {
 	"blogs":[
 		{
-			"name":"",
+			"name":"Business Ideas",
 			"description":"",
 			"icon link":"",
-			"blog link":""
+			"blog link":"https://businessideas001.blogspot.com/"
+		},
+		{
+			"name":"Culturetravelsite",
+			"description":"",
+			"icon link":"https://culturetravelsite.files.wordpress.com/2017/12/cropped-22279715_10214518981508482_9167579371510451248_n3.jpg",
+			"blog link":"https://culturetravelsite.wordpress.com/"
+		},
+		{
+			"name":"Matters",
+			"description":"",
+			"icon link":"https://onlymatters.files.wordpress.com/2018/02/cropped-matt6.png",
+			"blog link":"https://onlymatters.wordpress.com/"
 		}
 	]
 }

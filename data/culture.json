@@ -2,15 +2,9 @@
 	"blogs":[
 		{
 			"name":"VOYAGES ET EXPERIENCES",
-			"description":"---",
+			"description":"",
 			"icon link":"https://2.bp.blogspot.com/-RKSXGilZUzI/V7126t6gbzI/AAAAAAAAfAw/lKNySfHEGQo8_lFd8V4ph6z7m_B1KbCjACK4B/s1600/Exp%25C3%25A9riences%2Bd%2527une%2BLorraine.jpg",
 			"blog link":"https://voyagesexperiences.blogspot.com/"
-		},
-		{
-			"name":"Matters",
-			"description":"",
-			"icon link":"https://onlymatters.files.wordpress.com/2018/02/cropped-matt6.png",
-			"blog link":"https://onlymatters.wordpress.com/"
 		}
 	]
 }
