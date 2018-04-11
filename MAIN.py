@@ -9,6 +9,7 @@ CATEGORIES = {
         'coding':'<i class="fa fa-terminal"></i><br><br>coding',
         'cuisine':'<i class="fa fa-cutlery"></i><br><br>cuisine',
         'culture':'<i class="fa fa-bookmark-o"></i><br><br>culture',
+        'health':'<i class="fa fa-heartbeat"></i><br><br>health',
         'misc':'<i class="fa fa-asterisk"></i><br><br>misc',
         'nature':'<i class="fa fa-leaf"></i><br><br>nature',
         'perso':'<i class="fa fa-heart"></i><br><br>perso',

@@ -8,7 +8,7 @@
 		},
 		{
 			"name":"SAVEURS ET EXPERIENCES",
-			"description":"---",
+			"description":"",
 			"icon link":"https://1.bp.blogspot.com/-yX2RD8UaGNY/WFCsBMeK2bI/AAAAAAAAgs8/8qkeiQvEZogfN7AiDUqB6WiStmNih4G_ACK4B/s1600/Bandeau%2BSaveurs%2Bet%2BExperiences%2BWoodcabin.jpg",
 			"blog link":"https://saveursetexperiences.blogspot.com/"
 		},
@@ -29,6 +29,12 @@
 			"description":"Une blogueuse de food de l'ile maurice toujours en vadrouille",
 			"icon link":"http://www.latelierdekristel.com/wp-content/uploads/2018/01/nouvelle-bannie%CC%80re-2.png",
 			"blog link":"http://www.latelierdekristel.com/"
+		},
+		{
+			"name":"Beauteafood",
+			"description":"Born and raised in sunny Mauritius aka Pearl of the Indian Ocean. I now reside in Sydney in the land down under since Dec 2016. I am a lover of food, hot beverages and all things beautiful.",
+			"icon link":"http://www.beauteafood.com/wp-content/uploads/2017/01/beauteafood_logo.png",
+			"blog link":"http://www.beauteafood.com/"
 		}
 	]
 }
