@@ -94,7 +94,41 @@ END = '''
 </html>
 '''
 
-for category in CATEGORIES:
+def build_all():
+    for category in CATEGORIES:
+        with open(category+'.html', 'w+') as FILE:
+            print('crunching',category)
+            FILE.write(BEG.format(INFO=CATEGORIES[category]))
+            json_file = open('data/'+category+'.json', 'r').read()
+            BLOGS = json.loads(json_file)
+            for blog in BLOGS['blogs']:
+                name = descrip = icon = ''
+                
+                if blog['name'] == '':
+                    name = 'name unavailable'
+                elif len(blog['name']) <= 5:
+                    name = blog['name'] + '&nbsp;'*5
+                else:
+                    name = blog['name']
+                
+                if blog['description'] == '':
+                    descrip = 'description unavailable'
+                else:
+                    descrip = blog['description']
+                    
+                if blog['icon link'] == '':
+                    icon = 'https://image.flaticon.com/icons/svg/204/204322.svg'
+                    #icon = 'https://image.flaticon.com/icons/svg/291/291542.svg'
+                else:
+                    icon = blog['icon link']
+                FILE.write( BLOG_ELEM.format(BLOG_NAME=name,
+                                             BLOG_DESCRIP=descrip,
+                                             BLOG_LINK=blog['blog link'],
+                                             ICON_LINK=icon
+                                            ) )
+            FILE.write(END)
+
+def build(category):
     with open(category+'.html', 'w+') as FILE:
         print('crunching',category)
         FILE.write(BEG.format(INFO=CATEGORIES[category]))
@@ -117,6 +151,7 @@ for category in CATEGORIES:
                 
             if blog['icon link'] == '':
                 icon = 'https://image.flaticon.com/icons/svg/204/204322.svg'
+                #icon = 'https://image.flaticon.com/icons/svg/291/291542.svg'
             else:
                 icon = blog['icon link']
             FILE.write( BLOG_ELEM.format(BLOG_NAME=name,
@@ -125,4 +160,31 @@ for category in CATEGORIES:
                                          ICON_LINK=icon
                                         ) )
         FILE.write(END)
-            
+
+repl_on = 1
+
+help_message = '''   COMMANDS 
+build all : builds whole website
+build <category> : builds only one page
+exit : exit program
+'''
+
+while(repl_on):
+    In = input('>>> ')
+    words = In.split()
+    if words[0] == 'build':
+        if words[1] == 'all':
+            build_all()
+            #print('would build all')
+        else :
+            if words[1] in CATEGORIES:
+                build(words[1])
+                #print('would build', words[1])
+            else:
+                print('unknown category, build aborted')
+    elif words[0] == 'help':
+        print(help_message)
+    elif words[0] == 'exit':
+        repl_on = 0
+    else:
+        print('unrecognised command, type help for more info')
