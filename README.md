@@ -23,7 +23,7 @@ by opening an issue
 send a mail to arj.python@gmail.com
 
 # Contributing
-* build : python, see MAIN.pys
+* build : python, see MAIN.py
 * feel free to open an issue to discuss
 * any ideas welcomed !
 
