@@ -7,7 +7,7 @@ List of blogs from mauritius with [this list](https://www.facebook.com/notes/mau
 # REPL commands
 * help : help list
 * exit : exit repl
-* build <topic> : build specified topic
+* build [topic]: build specified topic
 * build all : build whole website
 
 # Submitting a blog
