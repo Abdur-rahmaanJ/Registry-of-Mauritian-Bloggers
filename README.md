@@ -4,6 +4,12 @@ List of blogs from mauritius with [this list](https://www.facebook.com/notes/mau
 # Link
 [here](https://abdur-rahmaanj.github.io/Registry-of-Mauritian-Bloggers/index.html)
 
+# REPL commands
+* help : help list
+* exit : exit repl
+* build <topic> : build specified topic
+* build all : build whole website
+
 # Submitting a blog
 ## github account 
 submit a pull request by modifying the appropriate json file category in data/
